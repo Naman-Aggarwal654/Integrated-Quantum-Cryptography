@@ -1,6 +1,7 @@
 qiskit==2.5.2
 qiskit-aer==0.17.2
+qiskit-ibm-runtime
 numpy
-matplotlib
 pandas
-scipy
+matplotlib
+notebook
