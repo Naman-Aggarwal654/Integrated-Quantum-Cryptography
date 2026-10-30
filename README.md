@@ -11,6 +11,10 @@ The implementation is based on the research paper:
 **Authors:** Xiaoping Lou et al.  
 **Journal:** IEEE Transactions on Dependable and Secure Computing, 2025.
 
+## Project Repository
+
+GitHub Repository: [Integrated Quantum Cryptography]()
+
 ## Project Objectives
 
 - Study quantum state preparation and Bell states.
