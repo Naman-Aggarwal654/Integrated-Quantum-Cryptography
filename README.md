@@ -13,7 +13,7 @@ The implementation is based on the research paper:
 
 ## Project Repository
 
-GitHub Repository: [Integrated Quantum Cryptography]()
+GitHub Repository: [Integrated Quantum Cryptography](https://github.com/Naman-Aggarwal654/Integrated-Quantum-Cryptography)
 
 ## Project Objectives
 
